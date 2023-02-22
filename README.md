@@ -1,3 +1,3 @@
-# austwang Web Page
+# Portfolio Page
 
-Static website created by austwang.
+Portfolio website created by austwang.
