@@ -1,5 +1,3 @@
-# Portfolio Page
+# Portfolio Website
 
-Portfolio website created by austwang.
-
-EECS 494
+Portfolio website created by Austin Wang.
