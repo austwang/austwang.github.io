@@ -6,3 +6,8 @@ body {
 .project-link {
     font-weight: bold;
 }
+
+#projects img {
+    width: 630px;
+    height: auto;
+}
