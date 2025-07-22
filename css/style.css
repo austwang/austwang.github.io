@@ -2,3 +2,7 @@ body {
     background-color: whitesmoke;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.project-link {
+    font-weight: bold;
+}
