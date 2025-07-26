@@ -18,6 +18,14 @@ header {
     color:#F0BC00;
 }
 
+main {
+    padding: 12px;
+}
+
+footer {
+    padding: 12px;
+}
+
 nav {
     padding: 0 24px;
 }
