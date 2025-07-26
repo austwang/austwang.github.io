@@ -9,6 +9,12 @@ html {
 body {
     background-color: whitesmoke;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+header {
+    background-color: #303F42;
+    color:#F0BC00;
 }
 
 nav ul {
@@ -24,6 +30,7 @@ nav ul {
 nav ul a {
     text-decoration: none;
     font-weight: bold;
+    color: whitesmoke;
 }
 
 .logo {
