@@ -18,6 +18,10 @@ header {
     color:#F0BC00;
 }
 
+nav {
+    padding: 0 24px;
+}
+
 nav ul {
     list-style: none;
     margin: 0;
@@ -25,7 +29,7 @@ nav ul {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    gap: 12px;
+    gap: 24px;
 }
 
 nav ul a {
