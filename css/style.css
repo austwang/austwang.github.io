@@ -17,10 +17,6 @@ header, footer {
     background-color: #303F42;
 }
 
-main {
-    padding: 12px;
-}
-
 footer > p {
     text-align: center;
     font-weight: bold;
@@ -56,6 +52,11 @@ nav ul a {
 
 .project-link {
     font-weight: bold;
+}
+
+#projects {
+    background-color: #98c6cf;
+    padding: 24px;
 }
 
 #projects img {
