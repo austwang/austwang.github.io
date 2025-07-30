@@ -82,3 +82,9 @@ nav ul a {
 #contact {
     padding: 24px;
 }
+
+.project-info {
+    border: 4px solid black;
+    display: flex;
+    flex-direction: column;
+}
