@@ -54,6 +54,10 @@ nav ul a {
     font-weight: bold;
 }
 
+#about {
+    padding: 24px;
+}
+
 #projects {
     background-color: #98c6cf;
     padding: 24px;
@@ -62,4 +66,8 @@ nav ul a {
 #projects img {
     width: 630px;
     height: auto;
+}
+
+#contact {
+    padding: 24px;
 }
