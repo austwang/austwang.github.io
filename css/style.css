@@ -74,17 +74,14 @@ nav ul a {
     padding: 24px;
 }
 
-#projects img {
-    width: 630px;
-    height: auto;
-}
-
 #contact {
     padding: 24px;
 }
 
 .project-container {
     display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
 }
 
 .project-info {
@@ -94,8 +91,9 @@ nav ul a {
     align-items: center;
     gap: 12px;
     padding: 12px;
+    width: 350px;
 }
 
 .project-info img {
-    max-width: 500px;
+    max-width: 300px;
 }
