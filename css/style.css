@@ -13,7 +13,7 @@ body {
     padding: 0;
 }
 
-header {
+header, footer {
     background-color: #303F42;
 }
 
@@ -21,8 +21,12 @@ main {
     padding: 12px;
 }
 
-footer {
-    padding: 12px;
+footer > p {
+    text-align: center;
+    font-weight: bold;
+    color: whitesmoke;
+    padding: 24px;
+    margin: 0;
 }
 
 nav {
