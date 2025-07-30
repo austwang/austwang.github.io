@@ -63,6 +63,12 @@ nav ul a {
     padding: 24px;
 }
 
+#about img {
+    border: 6px solid lightblue;
+    border-radius: 50%;
+    max-width: 300px;
+}
+
 #projects {
     background-color: #98c6cf;
     padding: 24px;
