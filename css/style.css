@@ -65,7 +65,7 @@ nav ul a {
     gap: 24px;
 }
 
-#about h3, p {
+#about h3, #about p {
     background-color: lightblue;
     border: 8px darkblue solid;
     border-radius: 16px;
