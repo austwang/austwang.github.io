@@ -59,7 +59,16 @@ nav ul a {
 }
 
 #about {
-    text-align: center;
+    padding: 24px;
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+
+#about h3, p {
+    background-color: lightblue;
+    border: 8px darkblue solid;
+    border-radius: 16px;
     padding: 24px;
 }
 
