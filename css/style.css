@@ -67,8 +67,6 @@ nav ul a {
 
 #about h3, #about p {
     background-color: lightblue;
-    border: 8px darkblue solid;
-    border-radius: 16px;
     padding: 24px;
 }
 
