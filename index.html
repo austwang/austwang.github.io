@@ -92,10 +92,12 @@
             <section id="contact">
                 <h2>Contact Me</h2>
                 <form action="https://httpbin.org/get" method="get">
-                    <label class="name-label" for="fullName">Name:</label>
-                    <input type="text" name="fullName" id="fullName" placeholder="Your Name*" autocomplete="on" required>
-                    <label class="email-label" for="email">Email:</label>
-                    <input type="text" name="email" id="email" placeholder="Your Email*" autocomplete="on" required>
+                    <div>
+                        <label class="name-label" for="fullName">Name:</label>
+                        <input type="text" name="fullName" id="fullName" placeholder="Your Name*" autocomplete="on" required>
+                        <label class="email-label" for="email">Email:</label>
+                        <input type="text" name="email" id="email" placeholder="Your Email*" autocomplete="on" required>
+                    </div>
                     <label class="message-label" for="message">Message:</label>
                     <textarea name="message" id="message" cols="30" rows="10" placeholder="Your Message Here*" required></textarea>
                     <button type="submit">Submit</button>
