@@ -116,4 +116,5 @@ form {
     border-radius: 12px;
     display: flex;
     padding: 24px;
+    gap: 8px;
 }
