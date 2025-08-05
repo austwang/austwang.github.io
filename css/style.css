@@ -77,6 +77,7 @@ nav ul a {
 }
 
 #projects {
+    text-align: center;
     background-color: lightblue;
     padding: 24px;
 }
