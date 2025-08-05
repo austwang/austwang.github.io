@@ -114,4 +114,6 @@ form {
     background-color: #98c6cf;
     border: 4px solid #008ebd;
     border-radius: 12px;
+    display: flex;
+    padding: 24px;
 }
