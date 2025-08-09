@@ -131,3 +131,9 @@ input {
 button {
     height: 2.5rem;
 }
+
+.personal-info {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
