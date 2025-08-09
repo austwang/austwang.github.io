@@ -129,7 +129,10 @@ input {
 }
 
 button {
+    background-color: aliceblue;
+    border: 2px solid #00bfff;
     height: 2.5rem;
+    padding: 12px;
 }
 
 .personal-info {
